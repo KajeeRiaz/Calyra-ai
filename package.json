@@ -75,7 +75,6 @@
     "@types/react-select": "^5.2.0",
     "@types/react-datepicker": "^4.19.4",
     "@types/react-helmet-async": "^1.0.3",
-    "@types/react-ga4": "^2.1.0",
     "@types/socket.io-client": "^3.0.0",
     "@types/react-pdf": "^7.5.1",
     "@types/jspdf": "^2.0.0",
